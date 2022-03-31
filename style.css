@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@500&family=Caveat:wght@600&display=swap');
+#nickname{
+    border-bottom-left-radius: 3mm;
+    border-top-right-radius: 3mm;
+    border-top-left-radius: 3mm;
+    border-bottom-right-radius: 3mm;
+    width: 55px;
+    padding: 1px;
+    font-family: 'Caveat';
+    margin-left: 300px;
+    border: 4px solid black;
+}
+
+.container{
+    background-image: url('../assets/F9F4ED.png');
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 15px;
+}
+
+#bio{
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(216, 90, 90);
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 3mm 3mm 3mm 3mm;
+    font-family: 'Bitter', serif;
+}
+
+#name{
+    font-size: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Bitter', serif;
+}
+
+#about{
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: 'Bitter', serif;
+}
+
+#hr{
+    width: 50%;
+    height: 10px;
+    background-color: rgb(216, 90, 90);
+    border-radius: 3mm 3mm 3mm 3mm;
+}
+
+#featured{
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-family: 'Bitter', serif;
+}
+
+#hrhr{
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+section, nav{
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: 'Bitter', serif;
+}
+
+#copyrightinfo{
+    font-family: 'Bitter', serif;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%
+}
+
+#footings{
+    padding: 10px;
+}
+
+footer{
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%
+}
